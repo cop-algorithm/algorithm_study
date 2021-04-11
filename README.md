@@ -1,10 +1,9 @@
 # COP_Al고리즘 스터디
-하나금융티아이 COP : 알고싶은 Al고리즘
-스트리미는 엔지니어의 가치를 중요하게 여깁니다.  
+하나금융티아이 COP : 알고싶은 Al고리즘  
 
 ### 공부중인 분야
 - Algorithm
--  Android
+- Android
 - iOS
 - BigData
 
