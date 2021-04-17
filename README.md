@@ -12,10 +12,11 @@
 ### 인원
 - [송이](https://github.com/ogogmia)
 - [박소연](https://github.com/SoYeonV)
-- 송주현
+- [송주현](https://github.com/joo0oo)
 - [우호진](https://github.com/hojinWoo)
 - [이소연](https://github.com/rooriririroo)
 - [장태희](https://github.com/janghe11)
+- 김동혁
 
 
 
